@@ -6,3 +6,6 @@
 5. Callback, Event Loop, Event Emitter, Streams
 6. Buffers: Node provides Buffer class which provides instances to store raw data similar to an array of integers but corresponds to a raw memory allocation outside the V8 heap.
 7. What is a Web Server? : https://www.tutorialspoint.com/nodejs/nodejs_web_module.htm
+8. Extra:
+   - array.sort()
+   - array.includes("world")
