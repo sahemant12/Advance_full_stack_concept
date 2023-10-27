@@ -19,7 +19,12 @@
    - 6. Passing data deeply with context
    - 7. Scaling up with reducer and context
 5. Escape Hatches: (Advance)
-   - 
+   - Some of your components may need to control and synchronize with systems outside of React. link: https://react.dev/learn/escape-hatches
+   - Referencing values with refs(const ref = useRef(0);)
+   - Manipulating the DOM with refs(inputRef.current.focus();)
+   - Synchronizing with Effects
+      - Add cleanup if needed
+      - 
 
 
 
