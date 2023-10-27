@@ -1,3 +1,15 @@
+# React Documentation
+1. Quick Start:
+   - const [history, setHistory] = useState([Array(9).fill(null)]);
+   - array.indexOf()
+2. Describing the UI:
+   - 
+
+
+
+
+
+
 # Nodejs
 1. Node.js = Runtime Environment + JavaScript Library
 2. REPL(Read Eval Print Loop) Terminal, REPL Commands
